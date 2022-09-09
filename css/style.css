@@ -379,7 +379,7 @@ header .login-user:hover {
 /* End Login */
 /* Start Landing */
 .landing {
-  background-image: url(/images/21.webp);
+  background-image: url("/images/21.webp");
   background-position: center;
   background-size: cover;
   min-height: 100vh;
